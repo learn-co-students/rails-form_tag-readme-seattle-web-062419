@@ -4,3 +4,4 @@ class PostsController < ApplicationController
   end
   
 end
+# comment
